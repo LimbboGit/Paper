@@ -7,7 +7,6 @@ MATLAB_DIR := /usr/local/MATLAB/R2015b/bin/
 
 ##2.Build caffe and matcaffe
 # build caffe
-
 cd caffe
 make all
 make all test
