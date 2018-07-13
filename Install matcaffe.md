@@ -27,7 +27,7 @@
 ##### 3. locate INCLUDE_DIRS and append /usr/include/hdf5/serial/ (per this SO answer)
 ##### 4. rerun make all
 
-## 2-2 '/home/xw/caffeBuild/caffe-master/matlab/+caffe/private/caffe_.mexa64':
+## 2-2 '/home/xw/caffeBuild/caffe-master/matlab/+caffe/private/caffe_.mexa64' issue
 ##### /home/xw/caffeBuild/caffe-master/matlab/+caffe/private/caffe_.mexa64: undefined
 ##### symbol:
 ##### _ZN2cv8imencodeERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKNS_11_InputArrayERSt6vectorIhSaIhEERKSB_IiSaIiEE
